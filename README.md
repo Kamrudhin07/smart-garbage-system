@@ -71,8 +71,9 @@ Next.js for building fast and interactive web applications.
 markdown
 
 ### Contributors
-- [Kamrudhin N](https://github.com/kamrudhin07) (Electronics and Communication Engineering) - IoT and Embedded C Developer
-- [Sitharth Elango](Information Technology) - Frontend Developer + Figma 
-- [Lokith Kumar S](Electronics and Communication Engineering) - IoT and Embedded C Developer
-- [Ranjan Shriyas P R](Electronics and Communication Engineering) - Research and Presentation
+- [Aayisha Noora J](https://github.com/aayishajalal) - Full Stack Developer + Machine Learning + Data Analytics + Figma 
+- [Bhuvaneshwari M](https://github.com/bhuvaneshwarii-m) - Full Stack Developer + Machine Learning + Data Analytics + Figma 
+- [Kamrudhin N](https://github.com/kamrudhin07) - IoT and Embedded C Developer
+- [Pavithra S](https://github.com/pavithra-612) - IoT and Embedded C Developer
+- [B E Shrinithy](https://github.com/beshrinithy) - Research and Presentation
 
