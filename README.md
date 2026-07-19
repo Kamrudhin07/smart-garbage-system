@@ -1,5 +1,6 @@
 # Smart Garbage System
-![Uploading smart garbage system.jpg…]()
+<img width="3140" height="1244" alt="smart garbage system" src="https://github.com/user-attachments/assets/cbe381ec-2300-4035-a37f-367d36931f31" />
+
 
 
 
