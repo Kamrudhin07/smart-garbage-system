@@ -1,5 +1,6 @@
 # Smart Garbage System
-![Project Image](https://drive.google.com/file/d/1C2i9NbGa-ePrT2q22_04UcduL-12OiTH/view?usp=drive_link)
+![Uploading smart garbage system.jpg…]()
+
 
 
 ## Overview
